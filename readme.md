@@ -99,7 +99,7 @@ Your instructors will give you access to a Pursuit-hosted API that contains a va
 
 Use the url below as your base url. You must add an endpoint from below to see actual data
 
-https://pursuit-9-1-full-stack-project.herokuapp.com
+https://pursuit-9-2-full-stack-project.herokuapp.com
 
 ### Endpoints
 
@@ -157,7 +157,7 @@ Please submit your proposal in one Slack thread that includes both Steven & Raz.
 
 #### Proposal will include 2 things:
 
-- a link to your Github 9-1-front-end-project which will include these files:
+- a link to your Github 9-2-front-end-project which will include these files:
 
   1. style.css file (this can be empty)
   1. proposal.md file that states what your app will do. see video
