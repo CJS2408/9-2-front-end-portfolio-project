@@ -1,8 +1,8 @@
 # Front-End-Portfolio-Project
 
-## JD Richards
+## Raz Efron
 
-I will create an application using the GIPHY API for data.
+I will create an application using the Pokemon API for data.
 
 ### User Stories
 
